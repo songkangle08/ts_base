@@ -224,5 +224,11 @@ class Dog {
 let r = createInstance<Person>(Person,'张三')       // 类可以充当类型，可以描述实例
 
 
+// 接口的默认功能是规范类型的
+
+
+// new () 表示Person类
+// :T 表示返回值的类型，这个类型是Person的实例
+
 
 export {}

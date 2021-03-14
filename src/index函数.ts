@@ -69,5 +69,8 @@ function toArray1(val:string|number){
 let r = toArray1('abc');
 
 
+// 函数的声明的两种方式  function（支持重载） 表达式（类型确定）
+
+
 export {};
 

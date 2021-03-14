@@ -15,3 +15,6 @@
     - 通过babel来解析
 - rollup一般情况下采用 rollup-plugin-typescript2
 - webpack一般情况下解析ts-loader / babel-plugin-typescript
+
+
+## ts中的基本类型
